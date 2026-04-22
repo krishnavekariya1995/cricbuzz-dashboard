@@ -1,5 +1,9 @@
 # 🏏 Cricbuzz LiveStats: Real-Time Cricket Insights & SQL Analytics
 
+Live Demo:- 
+Deployed App Link:- 
+https://cricbuzz-dashboard-hrmfitpwa3ffjcjlwdck7i.streamlit.app/
+
 ## 📌 Project Overview
 
 Cricbuzz LiveStats is a multi-page Streamlit dashboard that integrates live cricket data from the Cricbuzz API with a MySQL database. The application enables users to view real-time match information, perform SQL-based analytics, and interact with cricket data through an intuitive interface.
